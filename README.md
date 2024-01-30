@@ -1,4 +1,4 @@
-# LMM_CVA
+# LMM and CVA
 Example implementation of the LMM, applied to CVA
 
 ## Implementation details
